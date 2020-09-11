@@ -4,5 +4,5 @@ I am [Benjamin Chan](https://www.linkedin.com/in/benjamin-chan-chun-ho), a resea
 Each Python notebook is created to illustrate a concept through theoretical and empirical proof. The empirical proof can be in the form of simulation, data and use case study. The code is readily available for application. If you would like to make a suggestion or contribute to this initiative, please feel free to email me at benjaminchanchunho@gmail.com.
 
 Data Science Concept:
-* [ROC Curve — AUC] </br>
+* ROC Curve — AUC </br>
 [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data_Science_Proof_of_Concept/blob/master/ROC_AUC/ROC_AUC.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data_Science_Proof_of_Concept/blob/master/ROC_AUC/ROC_AUC.ipynb)
