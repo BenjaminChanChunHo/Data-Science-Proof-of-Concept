@@ -5,7 +5,9 @@ Each Python notebook is created to illustrate a concept through theoretical and 
 
 Data Science Concept:
 1. Receiver Operating Characteristic (ROC) Curve — Area Under the Curve (AUC)
-    * [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data_Science_Proof_of_Concept/blob/master/ROC_AUC/ROC_AUC.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data_Science_Proof_of_Concept/blob/master/ROC_AUC/ROC_AUC.ipynb)
+    * [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/ROC_AUC.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/ROC_AUC.ipynb)
+    * Keywords: decision threshold, true/false positive rate, Mann–Whitney statistics, probabilistic interpretation
 
 2. Naive Bayes Classifier
+    * [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive%20Bayes.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive%20Bayes.ipynb)
     * Keywords: Bayes' theorem, conditional independence, prior probability, likelihood, posterior probability, MAP estimation
