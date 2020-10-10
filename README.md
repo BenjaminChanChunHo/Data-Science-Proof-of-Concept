@@ -9,5 +9,5 @@ Data Science Concept:
     * Keywords: decision threshold, true/false positive rate, Mann–Whitney statistics, probabilistic interpretation
 
 2. Naive Bayes Classifier
-    * [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive%20Bayes.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive%20Bayes.ipynb)
+    * [View](https://nbviewer.jupyter.org/github/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive%20Bayes.ipynb) & [Notebook](https://github.com/BenjaminChanChunHo/Data-Science-Proof-of-Concept/blob/master/Naive_Bayes.ipynb)
     * Keywords: Bayes' theorem, conditional independence, prior probability, likelihood, posterior probability, MAP estimation
